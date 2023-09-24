@@ -14,4 +14,4 @@ export default {
   }
 }
 ```
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Changtingweiyuanyuan&theme=calm" height="230">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Changtingweiyuanyuan&theme=calm" height="200">
