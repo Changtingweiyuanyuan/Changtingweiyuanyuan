@@ -8,7 +8,7 @@
 export default {
   technologies:{
     backend: ['php', 'laravel'],
-    frontend: ['javascript', 'typescript', 'jquery', 'vue2'],
+    frontend: ['javascript', 'typescript', 'jquery', 'vue2', 'react'],
     database: ['mysql'],
     versionControl: ['git', 'mercurial']
   }
